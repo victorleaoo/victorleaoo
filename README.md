@@ -6,11 +6,13 @@
 - 🌱 I’m currently learning Data Science!
 
 - Social Media:
-[![LinkedIn](icons/linkedin.png)]([https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/victor-leaoo/))
+
+[![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/victor-leaoo/))
 
 - Working and Studying:
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+
+<a href="https://www.python.org/" title="Python"><img src="./python.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="./react.png" /></a>
 
 ## Projects
 
