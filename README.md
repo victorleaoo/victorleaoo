@@ -1,7 +1,16 @@
 # Victor Leão 🐍
 
-- 🔭 I’m currently working as a researcher (scholarship student) at [AiLab](https://ailab.unb.br/).
+- 🔭 I’m currently working as:
+  - A researcher (scholarship student) at [AiLab](https://ailab.unb.br/).
+  - A developer for a Innovation Development Project at [BCE - UnB](https://bce.unb.br/).
 - 🌱 I’m currently learning Data Science!
+
+- Social Media:
+[![LinkedIn](icons/linkedin.png)]([https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/victor-leaoo/))
+
+- Working and Studying:
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
 ## Projects
 
