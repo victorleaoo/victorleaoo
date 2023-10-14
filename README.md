@@ -5,11 +5,11 @@
   - A developer for a Innovation Development Project at [BCE - UnB](https://bce.unb.br/).
 - 🌱 I’m currently learning Data Science!
 
-#### Social Media
+### Social Media
 
 [![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/victor-leaoo/))
 
-#### Working and Studying
+### Working and Studying
 
 <a href="https://www.python.org/" title="Python"><img src="./python.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="./react.png" /></a>
