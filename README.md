@@ -7,7 +7,7 @@
 
 ### Social Media
 
-[![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/victor-leaoo/))
+<a href="https://www.linkedin.com/in/victor-leaoo/" title="Linked-In"><img src="./linkedin.png" /></a>
 
 ### Working and Studying
 
