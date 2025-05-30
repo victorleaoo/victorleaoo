@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Victor Leão, a Software Engineer who loves data-driven solutions and full-stack development. 🎲
+I'm Victor Leão, a Software Engineer who loves data-driven solutions. 🎲
 
 I work for Banco do Brasil, one of the largest banking institutions in Brazil, as a Data-Driven Projects Technical Leader. My main activity is to architect and oversee solutions for AI and data analytics projects, such as ETLs, machine learning models, and dashboards. 🐘👩‍💻
 
@@ -10,18 +10,18 @@ In my free time, I like to watch and play sports (soccer and basketball mainly),
 
 ## Skills 🛠️
 
-- **Languages**: Python, SQL, TypeScript.
-- **Big Data**: Hive, Spark.
-- **Frameworks**: NextJS, React, React Native, Django, FastAPI.
+- **Languages**: Python, SQL.
+- **Libraries**: Pandas, Numpy, NLTK, Scikit-Learn.
+- **Big Data**: Hive, Spark, DB2.
+- **Frameworks**: FastAPI.
 
 ## Projects 💻
 
-To stay up-to-date with the technologies, I enjoy creating Full-Stack projects that challenge me. I integrate data science, machine learning, and data engineering into these projects, allowing me to continuously develop my skills across multiple subjects and stay versatile as a professional.
+To stay up-to-date with the technologies, I enjoy creating projects that challenge me. I integrate data science, machine learning, and data engineering into these projects, allowing me to continuously develop my skills across multiple subjects and stay versatile as a professional.
 
 | Project | Description | Skills used |
 | :-: | :- | :- |
 | **[NBA-Data-Science-Project](https://github.com/victorleaoo/NBA-Data-Science-Project)** | Jupyter Notebook with data analysis for NBA datasets | Python, Matplotlib, Seaborn, Pandas |
-| **[PlayFy](https://github.com/victorleaoo/PlayFy)** | WebApp where Spotify users can see interesting stats related to their public playlists | Python (FastApi), React |
 
 ## Work Experience 👔
 
