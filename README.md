@@ -22,6 +22,7 @@ To stay up-to-date with the technologies, I enjoy creating projects that challen
 | Project | Description | Skills used |
 | :-: | :- | :- |
 | **[NBA-Data-Science-Project](https://github.com/victorleaoo/NBA-Data-Science-Project)** | Jupyter Notebook with data analysis for NBA datasets | Python, Matplotlib, Seaborn, Pandas |
+| **[SUSHI_Information_Retrieval_Archives](https://github.com/victorleaoo/SUSHI_Information_Retrieval_Archives)** | Experiments and results from Master's Studies:<br>1. **IR in Archives Model Run**: it makes possible to create runs for different subsets of the dataset with different models configurations.<br>2. **Experiment and Data Visualizer**: web application that makes possible to analyze results from models runs and to visualize the data used in the models. | Python, Pyterrier, Streamlit, Scipy |
 
 ## Work Experience 👔
 
@@ -34,6 +35,8 @@ To stay up-to-date with the technologies, I enjoy creating projects that challen
 ## Education 🏫
 
 - **Pursuing Master's Degree** in Artificial Intelligence @ Universidade de Brasília (2025-)
+  - The repository [SUSHI_Information_Retrieval_Archives](https://github.com/victorleaoo/SUSHI_Information_Retrieval_Archives) has the main experiments and results I'm having on my study area, which is **Information Retrieval in Archives**.
+  - 14-day **Technical Visit to University of Maryland** to work on the Information Retrieval in Archives context.
 - **Bachelor's Degree** in Software Engineering @ Universidade de Brasília (2020-2024)
   - The repository [Unb-Software](https://github.com/victorleaoo/UnB-Software) gathers a lot of assignments and studies I had to work during the course.
 
